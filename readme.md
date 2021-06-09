@@ -9,3 +9,8 @@ and Github in 2 hours!". See https://abhinary.com/gitting-started-gh for more
 details.
 
 All quotes are sourced from https://en.wikiquote.org
+
+List of software developers
+a
+b
+c
